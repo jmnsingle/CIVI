@@ -106,9 +106,10 @@ $ yarn start
 # To test the linter and get the possible errors, under the root folder /civi
 $ yarn lint
 ```
-### OBS
+#### OBS
 ```bash
 # If the data not showing, verify if the api is running
 # You must run the api and then run the mobile app
+# Get info for post new messages from the JSON file.
 ```
 
